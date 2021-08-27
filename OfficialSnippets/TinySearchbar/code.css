@@ -1,0 +1,8 @@
+.searchBar-3dMhjb {
+    width: 25px;
+    transition: .2s;
+}
+.search-2oPWTC:not(.open-6_Y_aH):hover .searchBar-3dMhjb {
+    width: 145px;
+    transition: .2s;
+}
