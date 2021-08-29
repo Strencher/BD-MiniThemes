@@ -1,0 +1,12 @@
+{
+    "name": "Scrollable Codeblocks",
+    "description": "Adds a vertical scroller to codeblocks instead of breaking lines and making the entire codeblock look like shit.",
+    "authorId": "415849376598982656",
+    "main": "./code.css",
+    "readme": "./readme.md",
+    "added": "2021-08-29T15:39:34.227Z",
+    "github": "https://github.com/Strencher/BD-MiniThemes/tree/main/OfficialSnippets/ScrollableCodeblocks",
+    "previews": [
+        "https://i.imgur.com/d5F3GoK.png"
+    ]
+}
